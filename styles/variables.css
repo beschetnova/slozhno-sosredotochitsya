@@ -2,16 +2,18 @@
   Переменные для вашего проекта
   и их переопределение под различные устройства
 */
+
 :root {
   /* Переменные тёмной темы */
-  --background-image: url('../images/cover-image-dark.png');
-  --title-text-color: rgba(219, 0, 255, 1);
-  --subtitle-text-color: rgba(255, 0, 112, 1);
-  --decorated-subtitle-text-color: rgba(0, 0, 40, 1);
-  --main-text-color: rgba(241, 178, 206, 1);
-  --accent-color: rgba(255, 0, 112, 1);
-  --menu-color: rgb(255, 0, 112);
-  --title-font-size: clamp(7.5rem, 0.5625rem + 14.4531vw, 9.8125rem);
-  --gap: 20px;
-  --visibility: visible;
+    --background-image: url('../images/cover-image-dark.png');
+    --title-text-color: rgba(219, 0, 255, 1);
+    --subtitle-text-color: rgba(255, 0, 112, 1);
+    --decorated-subtitle-text-color: rgba(0, 0, 40, 1);
+    --main-text-color: rgba(241, 178, 206, 1);
+    --accent-color: rgba(255, 0, 112, 1);
+    --menu-color: rgba(255, 0, 112, 1);
+    --menu-hover-color: rgba(255, 0, 112, 0.4);
+    --title-font-size: clamp(7.5rem, 0.5625rem + 14.4531vw, 9.8125rem);
+    --gap: 20px;
+    --visibility: visible;
 } 
