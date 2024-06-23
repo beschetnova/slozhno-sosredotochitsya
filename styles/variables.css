@@ -6,6 +6,7 @@
 :root {
   /* Переменные тёмной темы */
     --background-image: url('../images/cover-image-dark.png');
+    --background-color:rgba(0, 0, 40, 1);
     --title-text-color: rgba(219, 0, 255, 1);
     --subtitle-text-color: rgba(255, 0, 112, 1);
     --decorated-subtitle-text-color: rgba(0, 0, 40, 1);
